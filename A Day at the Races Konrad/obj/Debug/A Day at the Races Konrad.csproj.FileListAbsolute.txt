@@ -1,0 +1,10 @@
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.exe.config
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.exe
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.pdb
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csprojAssemblyReference.cache
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A_Day_at_the_Races_Konrad.Form1.resources
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A_Day_at_the_Races_Konrad.Properties.Resources.resources
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csproj.GenerateResource.cache
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csproj.CoreCompileInputs.cache
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.exe
+D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.pdb
