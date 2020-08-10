@@ -104,39 +104,33 @@ namespace A_Day_at_the_Races_Konrad
         {
             if(joeRadioButton.Checked)
             {
-                GuyArray[0].PlaceBet(Convert.ToInt32(moneyPicker.Value), Convert.ToInt32(dogPicker.Value));                
-                joeCashLabel.Text=GuyArray[0].MyBet.GetDescription();
+                GuyArray[0].PlaceBet(Convert.ToInt32(moneyPicker.Value), Convert.ToInt32(dogPicker.Value));
+                if(GuyArray[0].MyBet !=null)
+                {
+                    GuyArray[0].MyBet.GetDescription();
+                    joeCashLabel.Text = GuyArray[0].MyBet.GetDescription();
+                }
+
             }
 
             if (bobRadioButton.Checked)
             {
-                GuyArray[1].PlaceBet(Convert.ToInt32(moneyPicker.Value), Convert.ToInt32(dogPicker.Value));
-                GuyArray[1].MyBet.GetDescription();
-                bobCashLabel.Text = GuyArray[1].MyBet.GetDescription();
+                if (GuyArray[1].MyBet != null)
+                {
+                    GuyArray[1].MyBet.GetDescription();
+                    bobCashLabel.Text = GuyArray[1].MyBet.GetDescription();
+                }
             }
 
             if (alRadioButton.Checked)
             {
-                GuyArray[2].PlaceBet(Convert.ToInt32(moneyPicker.Value), Convert.ToInt32(dogPicker.Value));
-                GuyArray[2].MyBet.GetDescription();
-                alCashLabel.Text = GuyArray[2].MyBet.GetDescription();
+                if (GuyArray[2].MyBet != null)
+                {
+                    GuyArray[2].MyBet.GetDescription();
+                    alCashLabel.Text = GuyArray[2].MyBet.GetDescription();
+                }
 
             }
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

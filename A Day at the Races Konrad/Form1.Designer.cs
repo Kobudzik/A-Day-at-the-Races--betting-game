@@ -205,9 +205,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(208, 384);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(92, 13);
+            this.label1.Size = new System.Drawing.Size(91, 13);
             this.label1.TabIndex = 14;
-            this.label1.Text = "money on dog nr. ";
+            this.label1.Text = "dollars on dog nr. ";
             // 
             // dogPicker
             // 
@@ -251,7 +251,7 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.racetrackPictureBox);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Betting game";
             ((System.ComponentModel.ISupportInitialize)(this.racetrackPictureBox)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();

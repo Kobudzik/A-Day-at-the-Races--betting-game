@@ -22,7 +22,7 @@ namespace A_Day_at_the_Races_Konrad
 
             // Set my label to my bet’s description,
             //  and the label on my radio button to show my cash ("Joe has 43 bucks")
-            MyLabel.Text = Name + " has " + Cash + " money.";
+            MyLabel.Text = Name + " has " + Cash + " dollars.";
         }
 
         public void ClearBet()// Reset my bet so it’s zero  

@@ -20,6 +20,10 @@ namespace A_Day_at_the_Races_Konrad
         {
             if (Amount == 0)
                 return Bettor.Name + "hasn't placed a bet";
+            else if(Bettor.Cash==0)
+            {
+                return Bettor.Name + "doesn't have enough money!";
+            }
             else
                 return Bettor.Name + " placed a bet of " + Amount + " money on " + Dog;
         }

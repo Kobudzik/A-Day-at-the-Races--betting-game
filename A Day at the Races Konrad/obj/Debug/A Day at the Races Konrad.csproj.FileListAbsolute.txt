@@ -8,3 +8,13 @@ D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at th
 D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csproj.CoreCompileInputs.cache
 D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.exe
 D:\OLD\Visual studio projects\Heads First\różne\WindowsFormsApp14- A Day at the Races Konrad\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.pdb
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.exe.config
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.exe
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\bin\Debug\A Day at the Races Konrad.pdb
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csprojAssemblyReference.cache
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A_Day_at_the_Races_Konrad.Form1.resources
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A_Day_at_the_Races_Konrad.Properties.Resources.resources
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csproj.GenerateResource.cache
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.csproj.CoreCompileInputs.cache
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.exe
+C:\Users\KonradRyzen\Documents\GitHub\A-Day-at-the-Races--betting-game\A Day at the Races Konrad\obj\Debug\A Day at the Races Konrad.pdb
