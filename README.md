@@ -6,7 +6,7 @@ This is a hound racing simulator. Place a bet, and try your luck!
     
 ## Technologies
 Project is created with:
-* .NET Winforms
+* .NET Winforms (using C#)
 ## Features
 * selecting a player which places a bet
 * selecting a hound to bet on
